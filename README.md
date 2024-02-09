@@ -2,8 +2,7 @@
 With this tool, you can Run: first a complete DLC with all the wind and hydroDyn files and in furthur steps a loop of different DLC simulations in openfast automatically
 
 A detailed *pdf manual* will be added as a guide
-# I am aware of that this script does not fully automate the process of simulation with openfast, but I believe it would be a great help 
-# I hope future students/developres participate in it's developing to make the steps more comperhensible for everyone
+
 
 running each DLC seperately: 
 
@@ -25,3 +24,6 @@ running all DLCs together:
 2- Define the path on all those dlc.py files you have in this FullyAutomate.py
 
 that's it
+
+# I am aware of that this script does not fully automate the process of simulation with openfast, but I believe it would be a great help 
+# I hope future students/developres participate in it's developing to make the steps more comperhensible for everyone
