@@ -1,4 +1,4 @@
-# OpenFast_DLC_windseeds_Autorun
+# OpenFast_DLC_Autorun_Optimus_295_20_Hochschule Flensburg
 With this tool, you can Run: first a complete DLC with all the wind and hydroDyn files and in furthur steps a loop of different DLC simulations in openfast automatically
 
 A detailed *pdf manual* will be added as a guide
