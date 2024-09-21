@@ -8,7 +8,7 @@ A detailed *pdf manual* will be added as a guide
 
 **running each DLC seperately:** 
 
-1- Here I name the file MainRun.py but I recommend to change the name based on your prefered DLC
+1- Here I name the file DLC12.py but I recommend to change the name based on your prefered DLC
 
 2- paste the file next to your openfast.exe and batch file
 
@@ -21,7 +21,7 @@ A detailed *pdf manual* will be added as a guide
 
 **running all DLCs together:**
 
-1- you have to copy and paste the mainrun.py in each DLC seperetely and edit it accordingly
+1- you have to copy and paste the DLC12.py in each DLC seperetely and edit it accordingly
 
 2- Define the path on all those dlc.py files you have in this FullyAutomate.py
 
