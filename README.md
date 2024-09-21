@@ -28,4 +28,4 @@ A detailed *pdf manual* will be added as a guide
 that's it
 
 # I am aware of that this script does not fully automate the process of simulation with openfast, but I believe it would be a great help 
-# I hope future students/developres participate in it's developing to make the steps more comperhensible for everyone
+# I hope future students/developers participate in it's developing to make the steps more comperhensible for everyone
