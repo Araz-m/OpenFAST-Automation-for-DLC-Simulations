@@ -1,5 +1,6 @@
 # OpenFast_DLC_Autorun_Optimus_295_20_Hochschule Flensburg
-This tool is capable of running a complete DLC with all the wind and hydroDyn files and in furthur steps a loop of different DLC simulations in openfast automatically
+This tool is capable of running a complete DLC with all the wind and hydroDyn files.
+It can also perform a complete loop of different DLC simulations in openfast automatically
 https://github.com/WindEnergyEngineering/Optimus-295-20/tree/master/OpenFAST/Optimus-295-20
 
 A detailed *pdf manual* will be added as a guide
