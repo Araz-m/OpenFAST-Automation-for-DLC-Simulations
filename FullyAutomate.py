@@ -1,3 +1,4 @@
+#Developed by Araz Hamayeli Mehrabani, Flensburg University of Applied Sciences
 import subprocess
 import os
 import sys
