@@ -6,7 +6,7 @@ A detailed *pdf manual* will be added as a guide
 
 
 
-running each DLC seperately: 
+#running each DLC seperately: 
 
 1- Here I name the file MainRun.py but I recommend to change the name based on your prefered DLC
 
@@ -19,7 +19,7 @@ running each DLC seperately:
 5- I recommend to run the code in VScode because in contrast with cmd it can be scrolled for furthure checks
 
 
-running all DLCs together:
+#running all DLCs together:
 
 1- you have to copy and paste the mainrun.py in each DLC seperetely and edit it accordingly
 
