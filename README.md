@@ -1,5 +1,6 @@
 # OpenFast_DLC_Autorun_Optimus_295_20_Hochschule Flensburg
 This tool is capable of running a complete DLC with all the wind and hydroDyn files.
+It will create an Output folder and store outputs there and also rename the files based on your preferance for furthure post processing with MExtremes or similar tools.
 
 https://github.com/WindEnergyEngineering/Optimus-295-20/tree/master/OpenFAST/Optimus-295-20
 
