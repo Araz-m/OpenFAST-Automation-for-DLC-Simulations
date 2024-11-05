@@ -1,6 +1,6 @@
 # OpenFast_DLC_Autorun_Optimus_295_20_Hochschule Flensburg
 This tool is capable of running a complete DLC with all the wind and hydroDyn files.
-It can also perform a complete loop of different DLC simulations in openfast automatically
+
 https://github.com/WindEnergyEngineering/Optimus-295-20/tree/master/OpenFAST/Optimus-295-20
 
 A detailed *pdf manual* will be added as a guide
@@ -19,14 +19,6 @@ A detailed *pdf manual* will be added as a guide
 
 5- I recommend to run the code in VScode because in contrast with cmd it can be scrolled for furthure checks
 
-
-**running all DLCs together:**
-
-1- you have to copy and paste the DLC12.py in each DLC seperetely and edit it accordingly
-
-2- Define the path on all those dlc.py files you have in this FullyAutomate.py
-
-that's it
 
 # I am aware of that this script does not fully automate the process of simulation with openfast, but I believe it would be a great help 
 # I hope future students/developers participate in it's developing to make the steps more comperhensible for everyone
