@@ -31,17 +31,17 @@ cd OpenFast_Automating-DLC-Simulations_Optimus_295_20_Hochschule-Flensburg
 
 1. Prepare Input Files:
 
-  -Organize wind files (.bts) in the Wind directory.
-  -Place HydroDyn configuration files (.dat) in the Wave directory.
+  - Organize wind files (.bts) in the Wind directory.
+  - Place HydroDyn configuration files (.dat) in the Wave directory.
   
 2. Run the Script: Execute the automation script:
    python project.py
-   #I recommend to run the code in VScode because in contrast with cmd it can be scrolled for furthure checks
+   # I recommend to run the code in VScode because in contrast with cmd it can be scrolled for furthure checks
    
 4. Outputs:
 
-Simulation outputs will be organized in the Outputs/DLC12 directory.
-Files are renamed using the format OPT-MP-V<WindSpeed>_S<Seed> for easier identification.
+- Simulation outputs will be organized in the Outputs/DLC12 directory.
+- Files are renamed using the format OPT-MP-V<WindSpeed>_S<Seed> for easier identification.
 --------------------------------------------------------------------------------------
 # Project Structure
 📂 OpenFast_Automating-DLC-Simulations_Optimus_295_20_Hochschule-Flensburg
