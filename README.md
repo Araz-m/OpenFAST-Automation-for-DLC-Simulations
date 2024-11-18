@@ -1,16 +1,17 @@
 # OpenFAST Automation for DLC Simulations
-Automating OpenFAST simulations with Optimus 295-20 for Hochschule Flensburg. This project facilitates the execution and management of OpenFAST simulations by dynamically updating input files, running simulations, and organizing outputs for Design Load Cases.
+  Automating OpenFAST simulations with Optimus 295-20 for Hochschule Flensburg. This project facilitates the execution and management of OpenFAST simulations by   dynamically updating input files, running simulations, and organizing outputs for Design Load Cases.
 
 https://github.com/WindEnergyEngineering/Optimus-295-20/tree/master/OpenFAST/Optimus-295-20
 --------------------------------------------------------------------------------
 # Features
--
--Automatically updates and configures OpenFAST input files:
-  -Updates wind files (.bts).
-  -Dynamically manages HydroDyn configuration files.
-  -Edits the .fst file for hydrodynamic inputs.
--Automates the execution of OpenFAST simulations using a batch file.
--Organizes simulation outputs by wind speed and seed for easy post-processing.
+
+  Automatically updates and configures OpenFAST input files:
+    Updates wind files (.bts)
+    Dynamically manages HydroDyn configuration files.
+    Edits the .fst file for hydrodynamic inputs.
+  Automates the execution of OpenFAST simulations using a batch file
+  Organizes simulation outputs by wind speed and seed for easy post-processing.
+   
 -----------------------------------------------------------------------------------------------
 # Installation
 1. Clone the Repository:
