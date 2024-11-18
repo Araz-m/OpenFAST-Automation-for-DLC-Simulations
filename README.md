@@ -24,8 +24,8 @@ cd OpenFast_Automating-DLC-Simulations_Optimus_295_20_Hochschule-Flensburg
    
 4. Verify OpenFAST Installation:
 
-   Confirm that OpenFAST is installed on your machine.
-   Place the start_OpenFAST_v3-41.bat file in the appropriate directory, and update its path in the script if necessary.
+- Confirm that OpenFAST is installed on your machine.
+- Place the start_OpenFAST_v3-41.bat file in the appropriate directory, and update its path in the script if necessary.
    
 # Usage
 
