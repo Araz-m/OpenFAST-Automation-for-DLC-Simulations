@@ -3,8 +3,8 @@ Automating OpenFAST simulations with Optimus 295-20 for Hochschule Flensburg. Th
 
 https://github.com/WindEnergyEngineering/Optimus-295-20/tree/master/OpenFAST/Optimus-295-20
 --------------------------------------------------------------------------------
-#Features
-
+# Features
+-
 -Automatically updates and configures OpenFAST input files:
   -Updates wind files (.bts).
   -Dynamically manages HydroDyn configuration files.
@@ -12,7 +12,7 @@ https://github.com/WindEnergyEngineering/Optimus-295-20/tree/master/OpenFAST/Opt
 -Automates the execution of OpenFAST simulations using a batch file.
 -Organizes simulation outputs by wind speed and seed for easy post-processing.
 -----------------------------------------------------------------------------------------------
-#Installation
+# Installation
 1. Clone the Repository:
    git clone https://github.com/Araz-m/OpenFast_Automating-DLC-Simulations_Optimus_295_20_Hochschule-Flensburg.git
    cd OpenFast_Automating-DLC-Simulations_Optimus_295_20_Hochschule-Flensburg
@@ -25,7 +25,7 @@ https://github.com/WindEnergyEngineering/Optimus-295-20/tree/master/OpenFAST/Opt
    Confirm that OpenFAST is installed on your machine.
    Place the start_OpenFAST_v3-41.bat file in the appropriate directory, and update its path in the script if necessary.
    
-#Usage
+# Usage
 
 1. Prepare Input Files:
 
@@ -38,10 +38,10 @@ https://github.com/WindEnergyEngineering/Optimus-295-20/tree/master/OpenFAST/Opt
    
 4. Outputs:
 
-  -Simulation outputs will be organized in the Outputs/DLC12 directory.
-  -Files are renamed using the format OPT-MP-V<WindSpeed>_S<Seed> for easier identification.
+Simulation outputs will be organized in the Outputs/DLC12 directory.
+Files are renamed using the format OPT-MP-V<WindSpeed>_S<Seed> for easier identification.
 --------------------------------------------------------------------------------------
-#Project Structure
+# Project Structure
 📂 OpenFast_Automating-DLC-Simulations_Optimus_295_20_Hochschule-Flensburg
 ├── 📁 DLC12             # Main Directory
 │  └── 📂 Outputs           # Outputs are generated here
@@ -54,7 +54,7 @@ https://github.com/WindEnergyEngineering/Optimus-295-20/tree/master/OpenFAST/Opt
 └── README.md            # Project documentation
 
 ----------------------------------------------------------------------------
-#Contributing
+# Contributing
  Contributions are welcome! To contribute:
 
 1. Fork the repository.
