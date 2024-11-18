@@ -1,0 +1,5 @@
+import os (already fulfilled in python)
+import shutil (already fulfilled in python)
+import subprocess (already fulfilled in python)
+import time (already fulfilled in python)
+import pyautogui ( conda or pip install based on your environment manager)
