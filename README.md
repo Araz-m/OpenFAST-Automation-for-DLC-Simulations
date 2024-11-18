@@ -16,7 +16,7 @@ https://github.com/WindEnergyEngineering/Optimus-295-20/tree/master/OpenFAST/Opt
 # Installation
 1. Clone the Repository:
    git clone https://github.com/Araz-m/OpenFast_Automating-DLC-Simulations_Optimus_295_20_Hochschule-Flensburg.git
-   cd OpenFast_Automating-DLC-Simulations_Optimus_295_20_Hochschule-Flensburg
+cd OpenFast_Automating-DLC-Simulations_Optimus_295_20_Hochschule-Flensburg
    
 2. Install Dependencies: Ensure you have Python 3.x installed. Then install the required Python packages:
    pip install -r requirements.txt
